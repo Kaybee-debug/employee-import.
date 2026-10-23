@@ -1,0 +1,18 @@
+{
+  "name": "employee-import",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Payroll employee import with South African ID checks and control totals.",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.1"
+  }
+}

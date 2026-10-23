@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+page3.png
+answers/
